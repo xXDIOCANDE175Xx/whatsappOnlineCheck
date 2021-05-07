@@ -15,7 +15,7 @@ This application often changes the code of the web pages and therefore it will b
 Use the package manager [pip](https://pypi.org/project/pip/) to install requirements. 
 
 ```bash
-git clone 
+git clone https://github.com/xXDIOCANDE175Xx/whatsappOnlineCheck
 cd whatsappOnlineCheck
 pip3 install -r requirements.txt
 ```
@@ -41,3 +41,7 @@ TARGETS = {'"name"': 'number_international_format'}
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+## License
+MIT License
+
+Copyright (c) 2021 xXDIOCANDE175Xx
