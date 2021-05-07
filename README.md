@@ -3,7 +3,7 @@
 ![Alt Text](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png)
 
 
-This script allows, through the use of a browser and Whatsapp Web, to record when a user is online.
+This script allows, through the use of a browser and Whatsapp Web, to record when a user is online and write an output file.
 
 ## Attention :warning:
 
